@@ -11,3 +11,14 @@ The repository contains the code for training an image captioning model on MS CO
 - math: Math library is used to perform mathematical functions.
 - os: OS library provides functioanlity to interact with the operating system.
 - datetime: Datetime library supplies classes for manipulating dates and times in both simple and complex ways.
+
+**FILES**
+- datasets.py: This file loads the data from the disk.
+- data_provider.py: This file provides data to the image captioning model.
+- config.py: This file contains the hyperparameters value of the image captioning model.
+- losses.py: This file contains the model losses.
+- callbacks.py: This file conains various callbacks used during model training.
+- metrics.py: This file contains the metrics of the model.
+- model.py: This file builds the structure of the model before training.
+- preprocessors.py: This file contains the Image and Caption preprocessors.
+- training.ipynb: This python notebook contains the code to train the model.
