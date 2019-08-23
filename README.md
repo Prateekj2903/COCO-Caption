@@ -1,6 +1,7 @@
 # COCO-Caption
 
-
+**TASK - IMAGE CAPTIONING**
+The repository contains the code for training an image captioning model on MS COCO Dataset. For training purpose, Convolutional Neural Network and LSTM concepts are used.
 
 **DEPENDENCIES**
 - temsorflow: Tensorflow is a deep learning library developed by Google to create deep learning models.
