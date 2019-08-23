@@ -1,3 +1,5 @@
+# This file contains the code for various callbacks used while training the image captioning model
+
 import numpy as np
 
 from datetime import datetime
